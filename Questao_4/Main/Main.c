@@ -54,7 +54,7 @@ int getNumber() {
 			i--;
 			printf("\b \b");
 		}
-	} while (c != 13 && i ==0);
+	} while (c != 13 || i ==0);
 
 	output[i] = '\0';
 	number = atoi(output);
