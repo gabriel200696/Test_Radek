@@ -24,7 +24,7 @@ char* getString() {
 			i--;
 			printf("\b \b");
 		}
-	} while (c != 13 && i < 99 || i != 0);
+	} while (c != 13 && i < 99);
 
 	output[i] = '\0';
 	printf("\n");
@@ -34,32 +34,32 @@ char* getString() {
 }
 
 int getNumber() {
-	char digitado[100];
+	char output[100];
 	char c;
 	int i = 0;
-	int numero = 0;
+	int number = 0;
 
 	do
 	{
 		c = getch();
 		if (isdigit(c) != 0)
 		{
-			digitado[i] = c;
+			output[i] = c;
 			i++;
 			printf("%c", c);
 		}
 		else if (c == 8 && i)
 		{
-			digitado[i] = '\0';
+			output[i] = '\0';
 			i--;
 			printf("\b \b");
 		}
 	} while (c != 13 && i ==0);
 
-	digitado[i] = '\0';
-	numero = atoi(digitado);
+	output[i] = '\0';
+	number = atoi(output);
 	printf("\n");
-	return numero;
+	return number;
 }
 
 int main() {
