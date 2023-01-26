@@ -1,0 +1,3 @@
+﻿  ConcatRem.c
+E:\Teste C\Entrega Final\Questao_5\ConcatRem\ConcatRem.c(34,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConcatRem.vcxproj -> E:\Teste C\Entrega Final\Questao_5\x64\Debug\ConcatRem.lib

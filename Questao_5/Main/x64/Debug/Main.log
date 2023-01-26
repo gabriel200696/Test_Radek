@@ -1,0 +1,7 @@
+﻿  Main.c
+E:\Teste C\Entrega Final\Questao_5\Main\Main.c(14,7): warning C4013: 'getch' undefined; assuming extern returning int
+E:\Teste C\Entrega Final\Questao_5\Main\Main.c(15,7): warning C4013: 'isalpha' undefined; assuming extern returning int
+E:\Teste C\Entrega Final\Questao_5\Main\Main.c(45,7): warning C4013: 'isdigit' undefined; assuming extern returning int
+E:\Teste C\Entrega Final\Questao_5\Main\Main.c(60,11): warning C4013: 'atoi' undefined; assuming extern returning int
+E:\Teste C\Entrega Final\Questao_5\Main\Main.c(32): warning C4172: returning address of local variable or temporary: output
+  Main.vcxproj -> E:\Teste C\Entrega Final\Questao_5\x64\Debug\Main.exe
