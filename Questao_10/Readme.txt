@@ -1,0 +1,3 @@
+Visual Studio Code 2022 software was used to create the requested script. To run it, just run the project, or use the Questao_10.c file (located in the Questao_10 directory) in another compiler of your choice.
+
+*To capture the input information, the getString() function is used, which limits the insertion of only letters of the Portuguese alphabet, ascii [a-z]. To finish inserting the string, it is necessary to use the Enter key, identified by code 13 in the ASCII table (if the compiler has used another identification code, it is necessary to change it in line 25 of the Questao_10 file).

@@ -1,0 +1,7 @@
+﻿  Questao_10.c
+E:\Teste C\Entrega Final\Questao_10\Questao_10\Questao_10.c(2,32): warning C4081: expected 'newline'; found '.'
+E:\Teste C\Entrega Final\Questao_10\Questao_10\Questao_10.c(12,7): warning C4013: 'getch' undefined; assuming extern returning int
+E:\Teste C\Entrega Final\Questao_10\Questao_10\Questao_10.c(13,7): warning C4013: 'isalpha' undefined; assuming extern returning int
+E:\Teste C\Entrega Final\Questao_10\Questao_10\Questao_10.c(47,2): warning C4013: 'strcpy' undefined; assuming extern returning int
+E:\Teste C\Entrega Final\Questao_10\Questao_10\Questao_10.c(30): warning C4172: returning address of local variable or temporary: output
+  Questao_10.vcxproj -> E:\Teste C\Entrega Final\Questao_10\x64\Debug\Questao_10.exe
