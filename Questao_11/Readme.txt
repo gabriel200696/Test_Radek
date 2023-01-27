@@ -1,0 +1,3 @@
+Visual Studio Code 2022 software was used to create the requested script. To run it, just run the project, or use the Questao_11.c file (located in the Questao_10 directory) in another compiler of your choice.
+
+The string to be inverted must be changed manually, modifying the variable s on line 23. Where assuming that the bitwise XOR operator can be used to swap two variables, the same is used to invert the string. This is because XORing two numbers x and y returns a number that has all bits as 1 whenever the bits of x and y are different, so with 3 iterations but without using random variables two characters in the string can be swapped places.

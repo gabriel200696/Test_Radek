@@ -1,0 +1,3 @@
+﻿  Questao_11.c
+E:\Teste C\Questao_11\Questao_11\Questao_11.c(24,49): warning C4267: 'function': conversion from 'size_t' to 'int', possible loss of data
+  Questao_11.vcxproj -> E:\Teste C\Questao_11\x64\Debug\Questao_11.exe
